@@ -1,0 +1,10 @@
+h1{
+    font-size: 50px;
+    color: purple;
+    border: solid black;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
